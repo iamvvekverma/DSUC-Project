@@ -1,0 +1,8 @@
+Name:Deepak Kumar Sinha,
+RollNo:250231021,
+Science:74,
+SST:69,
+Hindi:69,
+English:53,
+Maths:63,
+

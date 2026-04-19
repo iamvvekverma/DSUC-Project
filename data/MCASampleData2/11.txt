@@ -1,0 +1,10 @@
+Name:PARUL,
+RollNo:250231042,
+Physics:90,
+Chemistry:80,
+Maths:71,
+Biology:NA,
+Computers:82,
+English:93,
+Hindi:NA,
+

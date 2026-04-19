@@ -1,0 +1,10 @@
+Name:Rupesh Parmar ,
+RollNo:250231055,
+Physics:70,
+Chemistry:64,
+Maths:49,
+Biology:NA,
+Computers:NA,
+English:65,
+Hindi:65,
+

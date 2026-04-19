@@ -1,0 +1,10 @@
+Name:Ayush Gupta ,
+RollNo:250231016,
+Physics:72,
+Chemistry:62,
+Maths:70,
+Biology:NA,
+Computers:NA,
+English:73,
+Hindi:75,
+

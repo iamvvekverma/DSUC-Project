@@ -1,0 +1,10 @@
+Name:Taoseef Raza ,
+RollNo:250231071,
+Physics:81,
+Chemistry:81,
+Maths:86,
+Biology:NA,
+Computers:N/A,
+English:73,
+Hindi:78,
+

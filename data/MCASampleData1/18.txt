@@ -1,0 +1,8 @@
+Name:Nikhil Rajput,
+RollNo:250231039,
+Science:82,
+SST:75,
+Hindi:91,
+English:82,
+Maths:89,
+

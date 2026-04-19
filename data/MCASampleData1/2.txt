@@ -1,0 +1,8 @@
+Name:Balendra Singh ,
+RollNo:250231018,
+Science:92,
+SST:87,
+Hindi:82,
+English:95,
+Maths:95,
+

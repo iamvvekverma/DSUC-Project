@@ -1,0 +1,10 @@
+Name:ABHISHEK GUPTA ,
+RollNo:250231003,
+Physics:75,
+Chemistry:71,
+Maths:67,
+Biology:NA,
+Computers:NA,
+English:91,
+Hindi:90,
+

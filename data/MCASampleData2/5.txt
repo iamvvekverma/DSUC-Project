@@ -1,0 +1,10 @@
+Name:Prachi Mishra,
+RollNo:250231044,
+Physics:67,
+Chemistry:68,
+Maths:55,
+Biology:NA,
+Computers:NA,
+English:62,
+Hindi:75,
+

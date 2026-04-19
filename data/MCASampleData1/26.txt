@@ -1,0 +1,8 @@
+Name:KAMLESH KUMAR ,
+RollNo:250231028,
+Science:78,
+SST:88,
+Hindi:71,
+English:75,
+Maths:70,
+

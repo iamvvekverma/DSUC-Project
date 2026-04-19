@@ -1,0 +1,8 @@
+Name:Prakash Kumar Shiromani ,
+RollNo:250231046,
+Science:82,
+SST:82,
+Hindi:69,
+English:82,
+Maths:82,
+

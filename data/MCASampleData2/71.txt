@@ -1,0 +1,10 @@
+Name:Abhishek Rathour ,
+RollNo:250231004,
+Physics:72,
+Chemistry:77,
+Maths:74,
+Biology:NA,
+Computers:NA,
+English:78,
+Hindi:75,
+

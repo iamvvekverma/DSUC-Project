@@ -1,0 +1,10 @@
+Name:Aman Kumar Maurya,
+RollNo:250231008,
+Physics:93,
+Chemistry:80,
+Maths:78,
+Biology:NA,
+Computers:NA,
+English:75,
+Hindi:92,
+

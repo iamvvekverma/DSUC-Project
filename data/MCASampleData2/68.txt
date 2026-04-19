@@ -1,0 +1,10 @@
+Name:Rashika Singh Gurjar,
+RollNo:250231050,
+Physics:87,
+Chemistry:76,
+Maths:93,
+Biology:NA,
+Computers:91,
+English:91,
+Hindi:NA,
+

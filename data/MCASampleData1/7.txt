@@ -1,0 +1,8 @@
+Name:Khushi Gupta ,
+RollNo:250231032,
+Science:40,
+SST:51,
+Hindi:85,
+English:71,
+Maths:55,
+

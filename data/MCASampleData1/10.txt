@@ -1,0 +1,8 @@
+Name:Shashank Verma,
+RollNo:250231059,
+Science:76,
+SST:81,
+Hindi:80,
+English:73,
+Maths:89,
+

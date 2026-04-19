@@ -1,0 +1,8 @@
+Name:Paritosh ,
+RollNo:250231041,
+Science:82,
+SST:83,
+Hindi:88,
+English:92,
+Maths:91,
+

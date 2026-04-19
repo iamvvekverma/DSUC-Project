@@ -1,0 +1,8 @@
+Name:Abhijeet Pathak,
+RollNo:250231002,
+Science:98,
+SST:82,
+Hindi:95,
+English:91,
+Maths:82,
+

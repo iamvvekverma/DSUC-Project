@@ -1,0 +1,10 @@
+Name:Chhaya singh,
+RollNo:250231020,
+Physics:68,
+Chemistry:93,
+Maths:83,
+Biology:NA,
+Computers:84,
+English:80,
+Hindi:NA,
+

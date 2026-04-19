@@ -1,0 +1,10 @@
+Name:Vivek Verma,
+RollNo:250231076,
+Physics:78,
+Chemistry:88,
+Maths:85,
+Biology:NA,
+Computers:NA,
+English:79,
+Hindi:NA,
+

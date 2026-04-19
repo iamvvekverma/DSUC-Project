@@ -1,0 +1,10 @@
+Name:Arshi Anam,
+RollNo:250231015,
+Physics:87,
+Chemistry:80,
+Maths:78,
+Biology:NA,
+Computers:NA,
+English:84,
+Hindi:81,
+

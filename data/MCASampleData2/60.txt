@@ -1,0 +1,10 @@
+Name:ANJALI TIWARI,
+RollNo:250231011,
+Physics:78,
+Chemistry:60,
+Maths:76,
+Biology:NA,
+Computers:NA,
+English:75,
+Hindi:75,
+

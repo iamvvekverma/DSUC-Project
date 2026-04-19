@@ -1,0 +1,8 @@
+Name:Saif Khan,
+RollNo:250231056,
+Science:70,
+SST:78,
+Hindi:96,
+English:78,
+Maths:82,
+

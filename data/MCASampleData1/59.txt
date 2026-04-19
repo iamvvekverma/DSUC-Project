@@ -1,0 +1,8 @@
+Name:Piyush Agrahari ,
+RollNo:250231043,
+Science:87,
+SST:94,
+Hindi:0,
+English:82,
+Maths:97,
+

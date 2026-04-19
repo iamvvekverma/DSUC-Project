@@ -1,0 +1,8 @@
+Name:Abhay Srivastava ,
+RollNo:250231001,
+Science:80,
+SST:82,
+Hindi:83,
+English:89,
+Maths:59,
+

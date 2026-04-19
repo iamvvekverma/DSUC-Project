@@ -1,0 +1,8 @@
+Name:Ayush Mishra,
+RollNo:250231017,
+Science:79,
+SST:80,
+Hindi:86,
+English:75,
+Maths:89,
+

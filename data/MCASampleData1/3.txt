@@ -1,0 +1,8 @@
+Name:ANANT KUMAR ,
+RollNo:250231009,
+Science:88,
+SST:90,
+Hindi:93,
+English:80,
+Maths:93,
+

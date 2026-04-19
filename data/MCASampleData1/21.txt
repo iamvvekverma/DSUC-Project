@@ -1,0 +1,8 @@
+Name:Priyanka ,
+RollNo:250231047,
+Science:75,
+SST:82,
+Hindi:0,
+English:87,
+Maths:81,
+

@@ -1,0 +1,10 @@
+Name:Archi Mishra ,
+RollNo:250231013,
+Physics:73,
+Chemistry:53,
+Maths:57,
+Biology:NA,
+Computers:85,
+English:88,
+Hindi:89,
+

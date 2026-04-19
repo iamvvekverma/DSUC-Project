@@ -1,0 +1,8 @@
+Name:Prachi singh,
+RollNo:250231045,
+Science:80,
+SST:52,
+Hindi:47,
+English:25,
+Maths:51,
+

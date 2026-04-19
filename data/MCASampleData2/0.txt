@@ -1,0 +1,10 @@
+Name:Name,
+RollNo:Roll No,
+Physics:Physics,
+Chemistry:Chemistry,
+Maths:Maths,
+Biology:Biology,
+Computers:Computers,
+English:English,
+Hindi:Hindi,
+

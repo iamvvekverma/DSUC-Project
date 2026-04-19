@@ -1,0 +1,10 @@
+Name:Shabd Prakash Tripathi,
+RollNo:250231058,
+Physics:52,
+Chemistry:51,
+Maths:33,
+Biology:NA,
+Computers:NA,
+English:67,
+Hindi:57,
+

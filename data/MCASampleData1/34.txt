@@ -1,0 +1,8 @@
+Name:Nidhi Soni,
+RollNo:250231037,
+Science:69,
+SST:97,
+Hindi:77,
+English:94,
+Maths:90,
+

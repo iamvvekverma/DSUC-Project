@@ -1,0 +1,8 @@
+Name:KRUSHNA KANTA PATRA ,
+RollNo:250231034,
+Science:89,
+SST:84,
+Hindi:0,
+English:79,
+Maths:93,
+

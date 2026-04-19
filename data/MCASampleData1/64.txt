@@ -1,0 +1,8 @@
+Name:Vivek Singh ,
+RollNo:250231075,
+Science:74,
+SST:82,
+Hindi:80,
+English:90,
+Maths:78,
+

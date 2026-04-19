@@ -1,0 +1,10 @@
+Name:Mayank Mishra ,
+RollNo:250231035,
+Physics:59,
+Chemistry:78,
+Maths:48,
+Biology:NA,
+Computers:NA,
+English:71,
+Hindi:NA,
+

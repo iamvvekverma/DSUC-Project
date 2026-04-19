@@ -1,0 +1,10 @@
+Name:Aniket singh,
+RollNo:250231010,
+Physics:77,
+Chemistry:67,
+Maths:90,
+Biology:NA,
+Computers:87,
+English:88,
+Hindi:NA,
+

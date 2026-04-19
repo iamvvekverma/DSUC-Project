@@ -1,0 +1,8 @@
+Name:Vivek Verma,
+RollNo:250231076,
+Science:88,
+SST:66,
+Hindi:92,
+English:92,
+Maths:87,
+

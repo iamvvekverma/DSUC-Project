@@ -1,0 +1,10 @@
+Name:shivi dwivedi,
+RollNo:250231062,
+Physics:73,
+Chemistry:77,
+Maths:63,
+Biology:NA,
+Computers:NA,
+English:88,
+Hindi:86,
+

@@ -1,0 +1,8 @@
+Name:Taoseef Raza ,
+RollNo:250231071,
+Science:82,
+SST:71,
+Hindi:77,
+English:82,
+Maths:70,
+

@@ -1,0 +1,8 @@
+Name:Namrata,
+RollNo:250231036,
+Science:53,
+SST:63,
+Hindi:75,
+English:65,
+Maths:52,
+

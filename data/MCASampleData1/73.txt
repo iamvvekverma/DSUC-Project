@@ -1,0 +1,8 @@
+Name:Anushka Verma,
+RollNo:250231012,
+Science:95,
+SST:98,
+Hindi:96,
+English:80,
+Maths:95,
+

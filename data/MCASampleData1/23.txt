@@ -1,0 +1,8 @@
+Name:Akhil Tripathi,
+RollNo:250231006,
+Science:48,
+SST:79,
+Hindi:70,
+English:65,
+Maths:59,
+

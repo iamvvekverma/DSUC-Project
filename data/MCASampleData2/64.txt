@@ -1,0 +1,10 @@
+Name:Vivek Singh ,
+RollNo:250231075,
+Physics:62,
+Chemistry:62,
+Maths:66,
+Biology:NA,
+Computers:NA,
+English:78,
+Hindi:79,
+

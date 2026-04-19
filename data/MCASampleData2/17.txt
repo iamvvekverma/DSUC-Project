@@ -1,0 +1,10 @@
+Name:Ranveer Singh,
+RollNo:250231049,
+Physics:68,
+Chemistry:54,
+Maths:49,
+Biology:NA,
+Computers:70,
+English:66,
+Hindi:NA,
+

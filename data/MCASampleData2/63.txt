@@ -1,0 +1,10 @@
+Name:Jatin Awasthi ,
+RollNo:250231026,
+Physics:90,
+Chemistry:88,
+Maths:90,
+Biology:0,
+Computers:95,
+English:90,
+Hindi:0,
+

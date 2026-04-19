@@ -1,0 +1,8 @@
+Name:Ujjwal Singh ,
+RollNo:250231072,
+Science:88,
+SST:82,
+Hindi:84,
+English:83,
+Maths:95,
+

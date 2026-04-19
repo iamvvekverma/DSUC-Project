@@ -1,0 +1,10 @@
+Name:Shubh dubey ,
+RollNo:250231067,
+Physics:82,
+Chemistry:82,
+Maths:75,
+Biology:NA,
+Computers:NA,
+English:75,
+Hindi:70,
+

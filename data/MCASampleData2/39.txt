@@ -1,0 +1,10 @@
+Name:Shivkant,
+RollNo:250231063,
+Physics:62,
+Chemistry:77,
+Maths:47,
+Biology:NA,
+Computers:NA,
+English:69,
+Hindi:75,
+

@@ -1,0 +1,10 @@
+Name:Nikhil Gupta,
+RollNo:250231038,
+Physics:85,
+Chemistry:91,
+Maths:87,
+Biology:NA,
+Computers:NA,
+English:84,
+Hindi:85,
+

@@ -1,0 +1,8 @@
+Name:Pankaj Kumar ,
+RollNo:250231040,
+Science:59,
+SST:58,
+Hindi:84,
+English:74,
+Maths:66,
+

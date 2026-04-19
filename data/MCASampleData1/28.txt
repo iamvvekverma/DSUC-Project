@@ -1,0 +1,8 @@
+Name:Utkarsh Shivhare,
+RollNo:250231073,
+Science:77,
+SST:78,
+Hindi:92,
+English:81,
+Maths:81,
+

@@ -1,0 +1,10 @@
+Name:Ayush Mishra,
+RollNo:250231017,
+Physics:90,
+Chemistry:83,
+Maths:89,
+Biology:00,
+Computers:99,
+English:90,
+Hindi:00,
+

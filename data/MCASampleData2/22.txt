@@ -1,0 +1,10 @@
+Name:Shivam Pal,
+RollNo:250231061,
+Physics:78,
+Chemistry:72,
+Maths:77,
+Biology:NA,
+Computers:NA,
+English:79,
+Hindi:75,
+

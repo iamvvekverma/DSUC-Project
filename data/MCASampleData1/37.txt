@@ -1,0 +1,8 @@
+Name:Shubham Patel ,
+RollNo:250231068,
+Science:77,
+SST:66,
+Hindi:87,
+English:90,
+Maths:90,
+

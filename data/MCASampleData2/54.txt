@@ -1,0 +1,10 @@
+Name:Sonu yadav,
+RollNo:250231069,
+Physics:71,
+Chemistry:72,
+Maths:58,
+Biology:NA,
+Computers:NA,
+English:84,
+Hindi:NA,
+

@@ -1,0 +1,10 @@
+Name:Shraddha Singh ,
+RollNo:250231064,
+Physics:87,
+Chemistry:89,
+Maths:NA,
+Biology:91,
+Computers:89,
+English:93,
+Hindi:NA,
+

@@ -1,0 +1,8 @@
+Name:Jagrati Singh Rajpoot,
+RollNo:250231025,
+Science:85,
+SST:0,
+Hindi:87,
+English:87,
+Maths:93,
+

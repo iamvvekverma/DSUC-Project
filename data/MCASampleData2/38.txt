@@ -1,0 +1,10 @@
+Name:YAGYA PRIYA CHAUHAN,
+RollNo:250231077,
+Physics:86,
+Chemistry:94,
+Maths:87,
+Biology:NA,
+Computers:NA,
+English:93,
+Hindi:NA,
+

@@ -1,0 +1,10 @@
+Name:Shreya Singh,
+RollNo:250231065,
+Physics:79,
+Chemistry:67,
+Maths:50,
+Biology:NA,
+Computers:50,
+English:75,
+Hindi:81,
+

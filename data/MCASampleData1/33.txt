@@ -1,0 +1,8 @@
+Name:Aniket singh,
+RollNo:250231010,
+Science:76,
+SST:76,
+Hindi:72,
+English:88,
+Maths:84,
+

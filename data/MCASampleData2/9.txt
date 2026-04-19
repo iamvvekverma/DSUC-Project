@@ -1,0 +1,10 @@
+Name:Aman Kumar ,
+RollNo:250231007,
+Physics:67,
+Chemistry:58,
+Maths:55,
+Biology:NA,
+Computers:NA,
+English:60,
+Hindi:NA,
+

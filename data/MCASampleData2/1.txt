@@ -1,0 +1,10 @@
+Name:Rahul Kumar ,
+RollNo:250231048,
+Physics:90,
+Chemistry:75,
+Maths:89,
+Biology:NA,
+Computers:93,
+English:NA,
+Hindi:NA,
+

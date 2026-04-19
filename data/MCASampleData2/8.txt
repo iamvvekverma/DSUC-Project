@@ -1,0 +1,10 @@
+Name:Shishir Mishra,
+RollNo:250231060,
+Physics:82,
+Chemistry:89,
+Maths:95,
+Biology:NA,
+Computers:NA,
+English:75,
+Hindi:83,
+

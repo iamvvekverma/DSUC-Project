@@ -1,0 +1,10 @@
+Name:Aditya Verma,
+RollNo:250231005,
+Physics:82,
+Chemistry:82,
+Maths:41,
+Biology:NA,
+Computers:NA,
+English:72,
+Hindi:85,
+

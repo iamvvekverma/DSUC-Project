@@ -1,0 +1,8 @@
+Name:Jitendra Kumar ,
+RollNo:250231027,
+Science:90,
+SST:91,
+Hindi:83,
+English:87,
+Maths:93,
+

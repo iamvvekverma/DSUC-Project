@@ -1,0 +1,8 @@
+Name:Kashish Agrawal ,
+RollNo:250231029,
+Science:67,
+SST:0,
+Hindi:84,
+English:92,
+Maths:83,
+

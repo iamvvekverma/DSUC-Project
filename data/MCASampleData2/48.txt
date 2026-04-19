@@ -1,0 +1,10 @@
+Name:Tanveer Khan,
+RollNo:250231070,
+Physics:95,
+Chemistry:95,
+Maths:94,
+Biology:NA,
+Computers:95,
+English:86,
+Hindi:NA,
+

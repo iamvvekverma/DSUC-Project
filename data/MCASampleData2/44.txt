@@ -1,0 +1,10 @@
+Name:chhavi sharma,
+RollNo:250231019,
+Physics:na,
+Chemistry:na,
+Maths:80,
+Biology:NA,
+Computers:NA,
+English:85,
+Hindi:NA,
+

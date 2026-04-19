@@ -1,0 +1,10 @@
+Name:Nikhil Rajput,
+RollNo:250231039,
+Physics:84,
+Chemistry:87,
+Maths:75,
+Biology:NA,
+Computers:NA,
+English:85,
+Hindi:80,
+

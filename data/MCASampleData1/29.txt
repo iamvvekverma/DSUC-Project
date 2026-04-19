@@ -1,0 +1,8 @@
+Name:Arpit Katiyar,
+RollNo:250231014,
+Science:65,
+SST:0,
+Hindi:78,
+English:55,
+Maths:63,
+

@@ -1,0 +1,8 @@
+Name:Ayush Gupta ,
+RollNo:250231016,
+Science:65,
+SST:72,
+Hindi:89,
+English:82,
+Maths:68,
+

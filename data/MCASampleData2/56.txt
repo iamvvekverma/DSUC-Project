@@ -1,0 +1,10 @@
+Name:Khushi Teotia,
+RollNo:250231033,
+Physics:81,
+Chemistry:82,
+Maths:73,
+Biology:NA,
+Computers:96,
+English:93,
+Hindi:NA,
+

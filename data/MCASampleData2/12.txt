@@ -1,0 +1,10 @@
+Name:Ritika Manjhi,
+RollNo:250231053,
+Physics:63,
+Chemistry:70,
+Maths:61,
+Biology:NA,
+Computers:NA,
+English:60,
+Hindi:63,
+

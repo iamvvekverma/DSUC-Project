@@ -1,0 +1,10 @@
+Name:Varsha kushwaha ,
+RollNo:250231074,
+Physics:81,
+Chemistry:88,
+Maths:84,
+Biology:NA,
+Computers:NA,
+English:82,
+Hindi:81,
+

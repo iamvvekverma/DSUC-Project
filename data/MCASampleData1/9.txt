@@ -1,0 +1,8 @@
+Name:Aman Kumar ,
+RollNo:250231007,
+Science:81,
+SST:76,
+Hindi:72,
+English:75,
+Maths:100,
+

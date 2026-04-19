@@ -1,0 +1,8 @@
+Name:Gurleen Kaur ,
+RollNo:250231024,
+Science:53,
+SST:74,
+Hindi:89,
+English:78,
+Maths:92,
+

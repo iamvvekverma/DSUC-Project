@@ -1,0 +1,10 @@
+Name:Khushi Dhiman,
+RollNo:250231030,
+Physics:78,
+Chemistry:83,
+Maths:68,
+Biology:0,
+Computers:76,
+English:86,
+Hindi:97,
+

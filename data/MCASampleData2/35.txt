@@ -1,0 +1,10 @@
+Name:Pankaj Kumar ,
+RollNo:250231040,
+Physics:80,
+Chemistry:63,
+Maths:71,
+Biology:NA,
+Computers:79,
+English:74,
+Hindi:NA,
+

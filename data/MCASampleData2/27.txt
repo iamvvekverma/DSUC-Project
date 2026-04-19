@@ -1,0 +1,10 @@
+Name:Satyam Kumar,
+RollNo:250231057,
+Physics:73,
+Chemistry:76,
+Maths:71,
+Biology:NA,
+Computers:NA,
+English:73,
+Hindi:77,
+

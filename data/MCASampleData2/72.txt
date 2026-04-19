@@ -1,0 +1,10 @@
+Name:Roshan Kumar,
+RollNo:250231054,
+Physics:64,
+Chemistry:80,
+Maths:82,
+Biology:NA,
+Computers:64,
+English:92,
+Hindi:NA,
+

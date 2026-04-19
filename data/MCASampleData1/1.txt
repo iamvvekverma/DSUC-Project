@@ -1,0 +1,8 @@
+Name:Rahul Kumar ,
+RollNo:250231048,
+Science:82,
+SST:80,
+Hindi:85,
+English:91,
+Maths:93,
+
